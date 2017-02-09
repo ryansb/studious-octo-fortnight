@@ -1,1 +1,3 @@
 Hello GDI git class!
+
+This is another line
