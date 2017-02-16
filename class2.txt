@@ -1,3 +1,7 @@
 1. Review
+   - Triangle of git operations
 2. Branches
+   - git branch
+   - The double life of git checkout
 3. Merging
+
